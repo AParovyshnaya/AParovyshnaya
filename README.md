@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=AParovyshnaya&color=AA4FFF)
 
+---
+
 ### My stats :metal:
 
 <div>
