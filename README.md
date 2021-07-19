@@ -19,6 +19,13 @@
 
 ### My favorit repositories :heartpulse:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple)](https://github.com/AParovyshnaya/uchislov)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple)](https://github.com/AParovyshnaya/Noughts-Crosses)
+<div>
+  
+  <div>
+  <a href="https://github.com/AParovyshnaya/uchislov"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple"></a><a href="https://github.com/AParovyshnaya/uchislov"><img src="https://aparovyshnaya.github.io/uchislov/images/img.png" width="170px" height="170px"></a>
+  </div>
+  <div>
+  <a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img src="https://aparovyshnaya.github.io/Noughts-Crosses/images/icon.png" width="170px" height="170px"></a>
+  </div>
+  
+</div>
