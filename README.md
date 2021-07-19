@@ -14,6 +14,6 @@
 
 My favorit repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple)](https://github.com/AParovyshnaya/uchislov)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple)](https://github.com/AParovyshnaya/Noughts-Crosses)
