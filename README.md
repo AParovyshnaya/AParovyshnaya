@@ -18,12 +18,14 @@
 ### My favorit repositories :heartpulse:
 
 <div>
-  
   <div>
-  <a href="https://github.com/AParovyshnaya/uchislov"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple"></a><a href="https://github.com/AParovyshnaya/uchislov"><img src="https://aparovyshnaya.github.io/uchislov/images/img.png" width="170px" height="170px"></a>
+  <a  href="https://github.com/AParovyshnaya/gena"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=gena&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/gena"><img src="https://aparovyshnaya.github.io/Noughts-Crosses/images/icon.png" width="170px" height="170px"></a>
   </div>
   <div>
   <a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img src="https://aparovyshnaya.github.io/Noughts-Crosses/images/icon.png" width="170px" height="170px"></a>
+  </div>
+  <div>
+  <a href="https://github.com/AParovyshnaya/uchislov"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=uchislov&theme=shades-of-purple"></a><a href="https://github.com/AParovyshnaya/uchislov"><img src="https://aparovyshnaya.github.io/uchislov/images/img.png" width="170px" height="170px"></a>
   </div>
   
 </div>
