@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=AParovyshnaya&color=AA4FFF)
+![](https://komarev.com/ghpvc/?username=AParovyshnaya&color=F5E47A)
 
 ---
 
@@ -8,6 +8,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=nightowl&show_icons=true" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AParovyshnaya&layout=compact" />
 </div>
 
@@ -19,7 +20,7 @@
 
 <div>
   <div>
-  <a  href="https://github.com/AParovyshnaya/gena"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=gena&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/gena"><img src="https://aparovyshnaya.github.io/Noughts-Crosses/images/icon.png" width="170px" height="170px"></a>
+  <a  href="https://github.com/AParovyshnaya/gena"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=gena&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/gena"><img src="https://github.com/AParovyshnaya/gena/blob/main/architecture/doc/images/icon/icon_256.png?raw=true" width="170px" height="170px"></a>
   </div>
   <div>
   <a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AParovyshnaya&repo=Noughts-Crosses&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/Noughts-Crosses"><img src="https://aparovyshnaya.github.io/Noughts-Crosses/images/icon.png" width="170px" height="170px"></a>
