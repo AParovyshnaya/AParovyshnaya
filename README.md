@@ -21,7 +21,7 @@
 
 ---
 
-### My favorit repositories :heartpulse:
+### The coolest repositories at this account
 
 <div>
   <div>
