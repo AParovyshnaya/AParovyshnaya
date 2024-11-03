@@ -10,4 +10,4 @@
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FFFFFF.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16) 	![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 
-There are only some my projects. If you want see more, you can left the issue at [my profile repo](https://github.com/AParovyshnaya/AParovyshnaya/issues/new).
+There are only some of my projects. The latest of them are not here. If you want see more, you can left the issue at [my profile repo](https://github.com/AParovyshnaya/AParovyshnaya/issues/new).
